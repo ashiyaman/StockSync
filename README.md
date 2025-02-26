@@ -64,15 +64,6 @@ PORT=5000
 ---
 
 ## 👥 Contributors
-- [Your Name](https://github.com/yourusername)
+- [ashiyaman](https://github.com/ashiyaman)
 
----
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌟 Support & Feedback
-Have feedback or need support? Open an issue or reach out via [email@example.com](mailto:email@example.com).
 
